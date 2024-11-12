@@ -1,0 +1,33 @@
+body{
+    text-align: center;
+}
+.d{
+    color: green;
+}
+.b{
+    color: lightblue;
+}
+.a{
+    color: pink;
+}
+.n{
+    color: aqua;
+}
+.m{
+    color: black;
+}
+#d{
+    color: blue;
+}
+#b{
+    color: brown;
+}
+#a{
+    color: blueviolet;
+}
+#n{
+    color: purple;
+}
+#m{
+    color: violet;
+}

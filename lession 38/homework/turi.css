@@ -1,0 +1,228 @@
+ body{
+    background:linear-gradient(90deg, #033E3E, #7c6335);
+    
+}
+
+header {
+    position: relative;
+    top: 0;
+    left: 0;
+    width: 100%;
+    
+}
+    
+
+.navebi{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    margin-left: 20px;
+    font-size: 30px;
+    font-family: "Libre Baskerville";
+    margin-bottom: -20px;
+}
+
+
+section2 {
+    position: fixed;
+    top: 300px;
+    left: 960px;
+}
+section3 {
+    position: fixed;
+    top: 400px;
+    left: 1850px;
+}
+.header{
+    color: white;
+    text-align: center;
+}
+.img1{
+    width: 500px;
+    position: relative;
+    top: 100px;
+    left: 25px;
+    border: 5px;
+    border-style: solid;
+    border-radius: 5px;
+    border-color: lightgreen;
+
+}
+.header1{
+    font-size: xx-large;
+    width: 550px;
+    padding: 10px;
+    justify-content: center;
+    margin: auto;
+    margin-top: 20px;
+    color: white;
+    border: 5px;
+    border-style: solid;
+    border-radius: 10px;
+}
+.borabora{
+    display: inline-block;
+    position: relative;
+    top: 90px;
+    color: white;
+    left: 25px;
+    width: 300px;
+    font-size: large;
+}
+
+.footmenu{
+    background-color: #353436;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    height: 150px;
+    justify-content: center;
+    text-align: center;
+    border-radius: 0px;
+
+}
+.fb{
+    font-size: x-large;
+    text-decoration: none;
+    margin: 10px;
+    color: rgb(243, 228, 228);
+    position: relative;
+    top: 20px;
+} 
+.inheader{
+    color: rgb(252, 239, 239);
+    position: relative;
+    top: 20px
+}
+.boraprice{
+    text-decoration: none;
+    font-size: large;
+    color: rgb(10, 201, 10);
+    position: relative;
+    display: inline-block;
+    left: 370px;
+    top: -90px;
+}
+.img2{
+    width: 500px;
+    position: relative;
+    top: -425px;
+    right: -1270px;
+    border: 5px;
+    border-style: solid;
+    border-radius: 5px;
+    border-color: lightgreen;
+
+}
+.mald{
+    display: inline-block;
+    position: relative;
+    top: -435px;
+    color: white;
+    right: -1270px;
+    width: 300px;
+    font-size: large;
+}
+.maldprice{
+    text-decoration: none;
+    font-size: large;
+    color: rgb(10, 201, 10);
+    position: relative;
+    display: inline-block;
+    right: -1600px;
+    top: -560px;
+}
+.img3{
+    width: 500px;
+    position: relative;
+    bottom: 400px;
+    left: 25px;
+    border: 5px;
+    border-style: solid;
+    border-radius: 5px;
+    border-color: lightgreen;
+
+}
+.fiji{
+    display: inline-block;
+    position: relative;
+    bottom: 410px;
+    color: white;
+    left: 25px;
+    width: 300px;
+    font-size: large;
+
+}
+.fijiprice{
+    text-decoration: none;
+    font-size: large;
+    color: rgb(10, 201, 10);
+    position: relative;
+    display: inline-block;
+    bottom: 565px;
+    left: 340px;
+}
+.img4{
+    width: 500px;
+    position: relative;
+    bottom: 915px;
+    right: -1270px;
+    border: 5px;
+    border-style: solid;
+    border-radius: 5px;
+    border-color: lightgreen;
+
+}
+.dubai{
+    display: inline-block;
+    position: relative;
+    top: -915px;
+    color: white;
+    right: -1275px;
+    width: 300px;
+    font-size: large;
+}
+.dubaiprice{
+    text-decoration: none;
+    font-size: large;
+    color: rgb(10, 201, 10);
+    position: relative;
+    display: inline-block;
+    right: -1600px;
+    top: -1090px;
+}
+.img5{
+    width: 500px;
+    position: relative;
+    bottom: 1700px;
+    left: 650px;
+    border: 5px;
+    border-style: solid;
+    border-radius: 5px;
+    border-color: lightgreen;
+
+}
+.maiami{
+    display: inline-block;
+    position: relative;
+    bottom: 1710px;
+    color: white;
+    left: 655px;
+    width: 300px;
+    font-size: large;
+
+}
+.maiamiprice{
+    text-decoration: none;
+    font-size: large;
+    color: rgb(10, 201, 10);
+    position: relative;
+    display: inline-block;
+    bottom: 1815px;
+    left: 970px;
+}
+
+
+
+
+

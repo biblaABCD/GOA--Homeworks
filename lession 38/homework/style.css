@@ -1,0 +1,60 @@
+body{
+    background:linear-gradient(90deg, #033E3E, #7c6335);
+    
+}
+
+header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    
+}
+    
+
+.navebi{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    margin-left: 20px;
+    position: relative;
+    text-align: center;
+    font-size: 30px;
+    font-family: "Libre Baskerville";
+
+}
+.header{
+    font-size: 15px;
+    width: 800px;
+    margin: auto;
+    margin-top: 20px;
+    color: white;
+    border: 5px;
+    border-style: solid;
+    border-radius: 10px;
+
+    
+}
+.footmenu{
+    background-color: #353436;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    height: 150px;
+    text-align: center;
+    border-radius: 0px;
+
+}
+.fb{
+    font-size: x-large;
+    text-decoration: none;
+    margin: 10px;
+    color: rgb(243, 228, 228);
+    position: relative;
+    top: 20px;
+}
+.inheader{
+    color: rgb(252, 239, 239);
+    position: relative;
+    top: 20px
+}

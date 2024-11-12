@@ -1,0 +1,23 @@
+body{
+    background: linear-gradient(90deg, #A16BFE,#E13680, #BC3D2F);
+}
+table{
+    position: relative;
+    margin: auto;
+    width: 100%;
+    border-collapse: collapse;
+}
+tr,th{
+    text-align: center;
+    font-weight: bold;
+    font-family: cursive;
+}
+
+tr:nth-child(odd){
+    background-color: lightskyblue;
+    border-color: lightskyblue;
+}
+tr:nth-child(even){
+    background-color: sienna;
+    border-color: sienna;
+}

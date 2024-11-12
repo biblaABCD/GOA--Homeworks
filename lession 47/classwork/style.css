@@ -1,0 +1,29 @@
+.box1, .box2, .box3{
+    border: 1px solid rgb(115, 177, 197);
+    background-color: rgb(113, 177, 113);
+    width: 200px;
+    height: 200px;
+    border-radius: 10px;
+}
+.h11:hover, .h12, .h13{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 50px;
+    display: flex;
+    justify-content: center;
+}
+.h12{
+    
+    padding: 20px;
+}
+.h13{
+    padding: 70px;
+}
+.box2:link{
+    margin: auto;
+}
+.box2:hover{
+    margin: auto;
+}
+.box3{
+    margin-top: 150px;
+}

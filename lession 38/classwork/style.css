@@ -1,0 +1,13 @@
+/* body{
+    background-image: url(https://wallpapers.com/images/hd/living-planet-earth-4e6ueybd5ba1mkqp.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+} */
+.box{
+    color: #1A1B41;
+    width: 200px;
+    height: 200px;
+    position: relative;
+    left: 200px;
+    border: #1A1B41;
+}
