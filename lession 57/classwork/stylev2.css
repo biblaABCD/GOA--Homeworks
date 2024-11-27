@@ -1,0 +1,29 @@
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: #f0f0f0;
+}
+
+.link {
+    font-size: 24px;
+    text-decoration: none;
+    color: #3498db;
+    transition: transform 0.3s;
+}
+
+.link:hover {
+    transform: scale(1.2) rotate(30deg);
+}
+
+.image {
+    width: 300px;
+    height: auto;
+    transition: transform 0.3s;
+}
+
+.image:hover {
+    transform: scale(1.2);
+}

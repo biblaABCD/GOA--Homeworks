@@ -1,0 +1,79 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.erti{
+    width: 150px;
+    height: 150px;
+    background-color: chocolate;
+    margin: 80px;
+    border-radius: 7px;
+    transition: 1s;
+    
+}
+.erti h1{
+    display: flex;
+    justify-content: center;
+    padding-top: 50px;
+}
+.erti:hover{
+    transform: translateX(70px);
+    background-color: saddlebrown;
+}
+.ori{
+    width: 150px;
+    height: 150px;
+    background-color: yellowgreen;
+    margin: 80px;
+    border-radius: 7px;
+    transition: 1s;
+}
+.ori h1{
+    display: flex;
+    justify-content: center;
+    padding-top: 50px;
+    font-family: monospace;
+    transition: 1s;
+}
+.ori:hover{
+    transform: rotate(90deg);
+    background-color: lightseagreen;
+}
+.sami{
+    width: 150px;
+    height: 150px;
+    background-color: lightblue;
+    margin: 80px;
+    border-radius: 7px;
+    transition: 1s;
+}
+.sami h1{
+    display: flex;
+    justify-content: center;
+    padding-top: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    transition: 1s;
+}
+.sami:hover{
+    transform: skew(30deg);
+    background-color: aquamarine;
+}
+.otxi{
+    width: 150px;
+    height: 150px;
+    background-color: purple;
+    margin: 80px;
+    border-radius: 7px;
+    transition: 1s;
+}
+.otxi h1{
+    display: flex;
+    justify-content: center;
+    padding-top: 50px;
+    font-family: Tahoma, sans-serif;
+    transition: 1s;
+}
+.otxi:hover{
+    transform: scale(1.3);
+    background-color: blueviolet;
+}
